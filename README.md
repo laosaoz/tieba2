@@ -2,10 +2,9 @@
 
 ## 今日签到状态
 
-可用\\
+可用\
 
 ## 使用说明
-
 
 1. Fork 本仓库，然后点击你的仓库右上角的 Settings，找到 Secrets 这一项，添加一个库秘密变量。其中 `BDUSS` 存放你的 BDUSS。支持同时添加多个帐户，BDUSS 之间用 `#` 隔开即可。
 
@@ -28,6 +27,5 @@
 4. 至此自动签到就搭建完毕了，可以再次点击`Actions`查看工作记录，如果有`Baidu Tieba Auto Sign`则说明workflow创建成功了。点击右侧记录可以查看详细签到情况。
 
 ![查看Action](/img/check.png)
-
 
 
